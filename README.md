@@ -1,5 +1,5 @@
 <code>Hello World!</code> <h1>I am &Dscr;&escr;&iscr;&vscr;&iscr;&dscr; &Sscr;&ascr;&sscr;&sscr;&ascr;&kscr;&iscr;</h1>
-<img align="right" alt="Vinho" src="https://unavatar.vercel.app/github/deividsassaki">
+<img align="right" alt="Vinho" height="30" width="30" src="https://unavatar.vercel.app/github/deividsassaki">
 </div>
    <p><p>
 <div> 
