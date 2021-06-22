@@ -5,5 +5,5 @@
 
    <p><p>
 <div> 
-   <a href="https://www.linkedin.com/in/deivid-sassaki/" target="_blank"><img src="https://img.shields.io/badge/DeividSassaki-white?logo=LinkedIn&logoColor=0A66C2&style=plastic" target="_blank" rel="noopener noreferrer"></a>
-<a href="https://www.facebook.com/deivid.sassaki" target="_blank"><img src="https://img.shields.io/badge/DeividSassaki-white?logo=Facebook&logoColor=1877F2&style=plastic" target="_blank" rel="noopener noreferrer"></a>
+   <a href="https://www.linkedin.com/in/deivid-sassaki/" target="_blank"><img src="https://img.shields.io/badge/-white?logo=LinkedIn&logoColor=0A66C2&style=plastic" target="_blank" rel="noopener noreferrer"></a>
+<a href="https://www.facebook.com/deivid.sassaki" target="_blank"><img src="https://img.shields.io/badge/-white?logo=Facebook&logoColor=1877F2&style=plastic" target="_blank" rel="noopener noreferrer"></a>
